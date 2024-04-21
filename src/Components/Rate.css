@@ -1,0 +1,33 @@
+.bannerFirst{
+    display: flex;
+    justify-content: space-between;
+}
+.bannerSecond{
+    display: flex;
+    justify-content: space-between;
+}
+.redColor{
+    color: white;
+    background-color: red;
+    padding: 10px;
+    border-radius: 20px;
+}
+.centreIcon{
+    text-align: center;
+    cursor: pointer;
+}
+.additionalButtons{
+    display: flex;
+    justify-content: space-around;
+}
+.additionalButtons div{
+    padding: 10px 20px 10px 20px;
+    color: white;
+    border-radius: 10px;
+}
+.green{
+    background-color: green;
+}
+.red{
+    background-color: red;
+}

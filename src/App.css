@@ -1,0 +1,13 @@
+.Parent{
+  width: 30%;
+  margin-left: auto;
+  margin-right: auto;
+ 
+  border: 5px solid red;
+  padding: 10px;
+}
+
+.downbarparent{
+  display: flex;
+  justify-content: space-around;
+}
